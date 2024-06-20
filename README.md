@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&customColorList=0&height=400)
+![header](https://capsule-render.vercel.app/api?type=venom&customColorList=0&height=100&textBg=false&desc=HyungGeun%20&fontSize=10)
 <!--
 **HyungGeun94/HyungGeun94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+
+<img align="center" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
+<img align="center" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:20px;" />
+<img align="center" alt="docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
+<img align="center" alt="spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:20px;" />
+<img align="center" alt="java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;" />
+<img align="center" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
+
+</p>
