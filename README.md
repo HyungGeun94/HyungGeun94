@@ -58,6 +58,6 @@
 
 ## 📫 Contact
 
-- Email: goorm94@gmail.com
+- Email: goormy94@gmail.com
 
 ---
