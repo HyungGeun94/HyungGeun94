@@ -1,31 +1,63 @@
-![header](https://capsule-render.vercel.app/api?type=venom&customColorList=0&height=100&textBg=false&desc=HyungGeun%20&fontSize=10)
-<!--
-**HyungGeun94/HyungGeun94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!--Header-->
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:A8E063&height=300&section=header&text=Good%20to%20see%20you!%20I’m%20HyungGeun&fontSize=40&fontAlignY=40)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungGeun94&count_bg=%2379C83D&title_bg=%23555555&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+## 👋 About Me
 
-<!-- ### History✏️ -->
+- 🎯 **기본에 충실하고, 새로운 기술에 도전하는 개발자**
+- 🛠️ Java 백엔드 중심으로 웹 아키텍처의 구조를 이해하며 성장 중
+- 💡 클린 코드, 유지보수성, 그리고 협업을 고려한 개발을 지향
+- 🌱 현재 `Spring Boot`, `MyBatis`, `JPA`, `Docker`, `Nginx` 등을 활용한 **실전 백엔드 프로젝트 경험**을 쌓는 중입니다
 
-### Tech Stack⭐️
-<p align="left">
+---
 
-<img align="center" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
-<img align="center" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:20px;" />
-<img align="center" alt="docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
-<img align="center" alt="spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:20px;" />
-<img align="center" alt="java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;" />
-<img align="center" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
+## 🧱 Tech Stack
 
-</p>
+### 💻 Language & Framework
+
+<img src="https://img.shields.io/badge/Java11-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-005BAC?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo..."/> <!-- 마이바티스 로고 없으니 생략 가능 -->
+<img src="https://img.shields.io/badge/Spring Data JPA-007ACC?style=flat-square&logo=Hibernate&logoColor=white"/>
+
+### 🌐 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+### 🛠️ Infra & DevOps
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+### 🔧 Collaboration & CI
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+---
+
+## 🧭 Motto
+
+> **기본을 탄탄히, 구조를 정확히, 기술은 넓게**  
+> → 이해하지 못한 채 넘기지 않으며, 매 순간 ‘왜’라는 질문을 던지며 성장합니다.
+
+---
+
+## 📫 Contact
+
+- Email: goorm94@gmail.com
+
+---
