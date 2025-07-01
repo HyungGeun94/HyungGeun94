@@ -23,7 +23,7 @@
 
 ### 💻 Language & Framework
 <div>
-<img src="https://img.shields.io/badge/Java11-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-005BAC?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo..."/> <!-- 마이바티스 로고 없으니 생략 가능 -->
