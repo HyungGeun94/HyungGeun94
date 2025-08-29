@@ -1,11 +1,5 @@
-<div align="center">
 
-<!--Header-->
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:A8E063&height=300&section=header&text=Good%20to%20see%20you!%20I’m%20HyungGeun&fontSize=40&fontAlignY=40)
-</div>
 
----
 
 ## 👋 About Me
 
