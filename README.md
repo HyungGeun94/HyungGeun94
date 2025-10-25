@@ -1,57 +1,27 @@
-
-
-
-## 👋 About Me
-
-- 🎯 **기본에 충실하고, 새로운 기술에 도전하는 개발자**
-- 🛠️ Java 백엔드 중심으로 웹 아키텍처의 구조를 이해하며 성장 중
-- 💡 클린 코드, 유지보수성, 그리고 협업을 고려한 개발을 지향
-- 🌱 현재 `Spring Boot`, `MyBatis`, `JPA`, `Docker`, `AWS` 등을 활용한 **백엔드 프로젝트 경험**을 쌓는 중입니다
+##  Hi, I’m HyungGeun  
 
 ---
 
-## 🧱 Tech Stack
+###  Recent Projects
 
-<div align="center">
-
-
-### 💻 Language & Framework
-<div>
-<img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-005BAC?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo..."/> <!-- 마이바티스 로고 없으니 생략 가능 -->
-<img src="https://img.shields.io/badge/Spring Data JPA-007ACC?style=flat-square&logo=Hibernate&logoColor=white"/>
-</div>
-
-
-  
-### 🌐 Frontend
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
-</div>
-
-### 🛠️ Infra & DevOps
-<div>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</div>
-
-### 🔧 Collaboration & CI
-
-<div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</div>
-
-</div>
+| Project | Description | Period | Core Features |
+|----------|--------------|---------|----------------|
+| [**Stepnote**](https://github.com/HyungGeun94/Stepnote) | 산책 기록 공유 플랫폼 | 2025.08 ~ 진행 중 | 도메인 이벤트 · WebSocket 실시간 알림 · FCM |
+| [**Wedy**](https://github.com/HyungGeun94/Wedy) | 예비부부를 위한 커플 플래너 | 2025.07 (4주) | OAuth2 로그인 · 커플 매칭 · Docker 배포 |
+| [**Fortunetoss**](https://github.com/HyungGeun94/Fortunetoss) | 행운 나눔 퀴즈 웹서비스 | 2025.05 (2주) | JWT 인증 · 퀴즈 로직 · API 설계 |
+| [**WeatherClaus**](https://github.com/Weather-Claus-Team/weather-claus-be) | 날씨 기반 의류 추천 + 채팅 | 2025.02 ~ 2025.03 | Redis 캐시 · 실시간 채팅 · 팀 협업 구조 |
 
 ---
 
+###  Tech Stack  
+
+**Language & Framework**  
+Java 17 · Spring Boot · JPA · QueryDSL · MyBatis  
+
+**Infra & DevOps**  
+MySQL · Docker · AWS (EC2, RDS, S3, Route53) · GitHub Actions  
+
+**Focus**  
+도메인 주도 설계 (DDD) · 테스트 코드 · 이벤트 기반 알림 · 쿼리 최적화  
+
+---
