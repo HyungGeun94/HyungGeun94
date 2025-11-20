@@ -1,7 +1,7 @@
 ##  Hi, I’m HyungGeun  
 
 ---
-
+<!-- 여기는 README에서 보이지 않는 주석입니다 
 ### Projects
 
 | Project | Description | Period | Core Features |
@@ -12,6 +12,7 @@
 | [**WeatherClaus**](https://github.com/Weather-Claus-Team/weather-claus-be) | 날씨 기반 의류 추천 + 채팅 | 2024.10 ~ 2024.11 (6주) | Docker 배포 · Redis 캐시 · 실시간 채팅 |
 
 ---
+-->
 
 ###  Tech Stack  
 
