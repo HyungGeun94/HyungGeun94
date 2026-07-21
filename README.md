@@ -18,7 +18,7 @@
 ###  Tech Stack  
 
 **Language & Framework**  
-Java 17 · Spring Boot · JPA · QueryDSL · MyBatis  
+Java · Spring Boot · JPA · QueryDSL · MyBatis  
 
 **Infra & DevOps**  
 MySQL · Docker · AWS (EC2, RDS, S3, Route53) · GitHub Actions  
